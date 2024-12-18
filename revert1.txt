@@ -1,6 +1,9 @@
 i1st
 <<<<<<< HEAD
+<<<<<<< HEAD
 2nd
 3rd
 =======
 >>>>>>> parent of f11a96d (2nd commit)
+=======
+>>>>>>> 5548a13 (1st commit)
