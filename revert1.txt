@@ -1,3 +1,6 @@
 i1st
+<<<<<<< HEAD
 2nd
 3rd
+=======
+>>>>>>> parent of f11a96d (2nd commit)
